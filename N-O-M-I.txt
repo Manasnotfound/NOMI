@@ -1,0 +1,311 @@
+# NOMI — Pocket AI Companion
+
+## Vision
+
+**NOMI** is a pocket-sized AI companion that feels like a tiny pet and a trusted friend—not just another AI assistant. It helps you understand the world around you, remembers what matters to you, and grows alongside you.
+
+**Tagline:**
+
+> *"A pocket companion that helps you notice, remember, and understand the world."*
+
+---
+
+# Core Philosophy
+
+* Quiet by default.
+* Speaks only when you ask.
+* Learns from you over time.
+* Feels alive through expressions and personality.
+* Privacy-first and permission-based.
+
+Unlike a phone assistant, NOMI is always physically with you, making interactions natural and effortless.
+
+---
+
+# Hardware
+
+* Pocket-sized wearable device
+* Camera
+* Microphone
+* Speaker / Earphone support
+* Small display with animated eyes/face
+* Button (Push-to-Talk)
+* Battery powered
+* Bluetooth & Wi-Fi
+* Connects to your phone when needed
+
+---
+
+# Core Features
+
+## 1. Visual Understanding
+
+NOMI sees the world through its camera.
+
+You can ask:
+
+* "What's that building?"
+* "What flower is this?"
+* "Explain this machine."
+* "How does it work?"
+
+Instead of only identifying objects, it explains them in simple language.
+
+---
+
+## 2. Curiosity Companion
+
+NOMI exists to satisfy curiosity.
+
+Instead of searching Google,
+
+you simply ask.
+
+Examples:
+
+* Why is the sky orange?
+* What bird is this?
+* Why is this bridge designed like this?
+* What's happening over there?
+
+Learning becomes effortless.
+
+---
+
+## 3. Personalized AI
+
+NOMI learns:
+
+* your interests
+* favorite topics
+* learning style
+* speaking style
+* vocabulary
+* preferred answer length
+
+Every answer becomes increasingly personalized.
+
+---
+
+## 4. Long-Term Memory
+
+NOMI remembers:
+
+* previous conversations
+* places you've visited
+* things you've learned
+* questions you've asked
+* projects you're building
+
+It builds a knowledge graph around your life.
+
+Example:
+
+> "Last month you asked about quantum computing. Today this article relates to that."
+
+---
+
+## 5. Relationship Memory
+
+With permission,
+
+NOMI remembers people.
+
+Example:
+
+* Names
+* Birthdays
+* Last meeting
+* Favorite food
+* Interests
+* Places they enjoy
+* Important conversations
+
+Example:
+
+> "You're meeting Sarah today. Last time she mentioned her exam."
+
+Not face recognition without consent—rather, a permission-based personal memory.
+
+---
+
+## 6. Accessibility
+
+Designed from the beginning for blind and low-vision users.
+
+Features:
+
+* Scene description
+* Object identification
+* Reading signs
+* Navigation assistance
+* Obstacle awareness
+* Describing surroundings
+
+Accessibility isn't an add-on—it is a core feature.
+
+---
+
+## 7. Expressive Personality
+
+Instead of looking like electronics,
+
+NOMI feels alive.
+
+Features:
+
+* Animated eyes
+* Small facial expressions
+* Happy
+* Curious
+* Sleepy
+* Listening
+* Thinking
+
+Tiny movements make it feel like a pet.
+
+---
+
+## 8. Companion Behavior
+
+NOMI isn't constantly talking.
+
+It waits patiently.
+
+When called,
+
+it responds naturally.
+
+Like walking with a friend instead of using a search engine.
+
+---
+
+## 9. Phone Companion
+
+Can connect to your phone.
+
+Possible features:
+
+* Read notifications
+* Display important messages
+* Phone battery status
+* Call alerts
+* Calendar reminders
+
+Only when requested.
+
+No unnecessary interruptions.
+
+---
+
+## 10. Context Awareness
+
+NOMI understands:
+
+* where you are
+* what you're looking at
+* previous conversations
+* who you're with (when you've chosen to save that information)
+
+It gives context-aware answers instead of generic responses.
+
+---
+
+# Future Features
+
+* Voice emotion detection
+* Mood adaptation
+* Daily learning summaries
+* Memory timeline
+* Travel companion
+* Language translation
+* Study assistant
+* Personal journal
+* Smart reminders
+* Curiosity challenges
+* Habit tracking
+* Indoor navigation
+* Outdoor exploration mode
+
+---
+
+# Prototype Roadmap
+
+### Version 0.1
+
+* Raspberry Pi
+* Camera
+* Microphone
+* Speaker
+* Button
+* Capture image/audio
+* Send to AI API
+* Receive response
+* Speak answer
+
+---
+
+### Version 0.2
+
+* Session memory
+
+---
+
+### Version 0.3
+
+* Long-term memory
+
+---
+
+### Version 0.4
+
+* Bluetooth phone integration
+
+---
+
+### Version 0.5
+
+* Animated eyes
+* Personality
+* Emotional expressions
+
+---
+
+# What Makes NOMI Different
+
+Most AI companions focus on **conversation**.
+
+NOMI focuses on:
+
+* Curiosity
+* Memory
+* Relationships
+* Real-world understanding
+* Accessibility
+* Personality
+* Privacy
+
+It isn't simply "ChatGPT inside a robot."
+
+It becomes a companion that learns your life, remembers your experiences, and helps you understand the world in a way that feels natural.
+
+---
+
+# Value Proposition
+
+NOMI provides:
+
+* Instant learning without reaching for your phone
+* A persistent memory that grows with you
+* A more human way to interact with AI
+* Better relationship recall
+* Accessibility for visually impaired users
+* Reduced screen time
+* Personalized explanations
+* A companion that becomes more useful every day
+
+---
+
+# Long-Term Vision
+
+The ultimate goal is to create an AI companion that people genuinely enjoy carrying every day—not because they *need* another gadget, but because NOMI helps them **learn faster, remember better, stay connected to people, and experience the world with greater curiosity**. It aims to become a trusted companion that grows more valuable the longer you use it.
